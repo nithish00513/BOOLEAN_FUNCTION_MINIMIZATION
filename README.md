@@ -51,6 +51,11 @@ endmodule
 ![de rtl 2](https://github.com/user-attachments/assets/aea9b71f-5510-4991-92c0-0ca3ea953fd6)
 
 
+**K-MAP**
+
+![WhatsApp Image 2025-11-21 at 10 34 14_67d155ef](https://github.com/user-attachments/assets/96440dae-4858-4972-a8a2-19c2c053868b)
+
+
 
 **Output:**
 
